@@ -1,0 +1,11 @@
+{
+  "name": "stack-js",
+  "version": "1.0.0",
+  "description": "A library which offers you an easy to use stack plugin that does undo and redo functionalities for you app",
+  "main": "src/stackme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yousef Neji <youNej3030@gmail.com>",
+  "license": "MIT"
+}
