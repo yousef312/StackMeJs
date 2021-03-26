@@ -1,5 +1,5 @@
 # StackMe.js
-![Benjamin Bannekat](src/assets/logo-.png)
+![Logo](src/assets/logo-.png)
 
 ## Author 
 Yousef Neji
